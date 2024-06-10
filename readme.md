@@ -3,8 +3,11 @@
 IDetect is an object detection project designed to enhance safety on construction sites. Utilizing the power of the YOLO (You Only Look Once) algorithm, IDetect is trained to recognize and verify the presence of essential safety equipment on construction workers. Additionally, it identifies workers who are in close proximity to machinery, providing real-time alerts to improve safety and prevent accidents.
 
 Features
+
 **Safety Equipment Detection:** Detects whether a construction worker is wearing all the necessary safety equipment, such as helmets, safety vests, gloves, and boots.
+
 **Proximity Alerts:** Identifies workers who are close to machinery, helping to prevent accidents and ensure safe working distances.
+
 **Real-time Monitoring:** Provides real-time feedback and alerts to enhance safety on the construction site.
 
 
